@@ -1,7 +1,7 @@
 
 import Hero from "./components/hero";
 
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Home from "./components/home";
 
 import Footer from "./components/footer";
