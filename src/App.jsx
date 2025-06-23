@@ -1,11 +1,10 @@
 
-import Hero from "./components/Hero";
-import BookingForm from "./components/package";
+import Hero from "./components/hero";
 
 import Navbar from "./components/navbar";
 import Home from "./components/home";
 
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 
 
